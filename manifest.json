@@ -1,1 +1,354 @@
-[]
+﻿[
+    {
+        "date":  "2026-08-16",
+        "rate":  209,
+        "images":  [
+                       {
+                           "file":  "Image_20260816135806_215_9.jpg",
+                           "cny":  9,
+                           "krw":  2800
+                       },
+                       {
+                           "file":  "Image_20260816135807_216_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135808_217_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135809_218_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135810_219_9.jpg",
+                           "cny":  7,
+                           "krw":  2200
+                       },
+                       {
+                           "file":  "Image_20260816135811_220_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135812_221_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135813_222_9.jpg",
+                           "cny":  7,
+                           "krw":  2200
+                       },
+                       {
+                           "file":  "Image_20260816135814_223_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135816_224_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135817_225_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135818_226_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816135819_227_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140219_229_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140220_230_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140222_231_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140223_232_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140224_233_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140226_234_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140227_235_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140228_236_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140230_237_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140231_238_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260816140233_239_9.jpg",
+                           "cny":  7,
+                           "krw":  2200
+                       },
+                       {
+                           "file":  "Image_20260816140234_240_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       }
+                   ]
+    },
+    {
+        "date":  "2026-08-15",
+        "rate":  209,
+        "images":  [
+                       {
+                           "file":  "Image_20260815214942_168_9.jpg",
+                           "cny":  2023,
+                           "krw":  634200
+                       },
+                       {
+                           "file":  "Image_20260815214943_169_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815214944_170_9.jpg",
+                           "cny":  2023,
+                           "krw":  634200
+                       },
+                       {
+                           "file":  "Image_20260815214945_171_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815214946_172_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815214946_173_9.jpg",
+                           "cny":  2023,
+                           "krw":  634200
+                       },
+                       {
+                           "file":  "Image_20260815214947_174_9.jpg",
+                           "cny":  2023,
+                           "krw":  634200
+                       },
+                       {
+                           "file":  "Image_20260815214948_175_9.jpg",
+                           "cny":  2023,
+                           "krw":  634200
+                       },
+                       {
+                           "file":  "Image_20260815215505_177_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215506_178_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215506_179_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215507_180_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215508_181_9.jpg",
+                           "cny":  3731,
+                           "krw":  1169700
+                       },
+                       {
+                           "file":  "Image_20260815215509_182_9.jpg",
+                           "cny":  7,
+                           "krw":  2200
+                       },
+                       {
+                           "file":  "Image_20260815215510_183_9.jpg",
+                           "cny":  3137,
+                           "krw":  983400
+                       },
+                       {
+                           "file":  "Image_20260815215511_184_9.jpg",
+                           "cny":  3131,
+                           "krw":  981600
+                       },
+                       {
+                           "file":  "Image_20260815215512_185_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215936_187_9.jpg",
+                           "cny":  9,
+                           "krw":  2800
+                       },
+                       {
+                           "file":  "Image_20260815215937_188_9.jpg",
+                           "cny":  223,
+                           "krw":  69900
+                       },
+                       {
+                           "file":  "Image_20260815215938_189_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215939_190_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215940_191_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215941_192_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215941_193_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215942_194_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215943_195_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215944_196_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215945_197_9.jpg",
+                           "cny":  7,
+                           "krw":  2200
+                       },
+                       {
+                           "file":  "Image_20260815215946_198_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215947_199_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815215947_200_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815220328_202_9.jpg",
+                           "cny":  5,
+                           "krw":  1500
+                       },
+                       {
+                           "file":  "Image_20260815220329_203_9.jpg",
+                           "cny":  9,
+                           "krw":  2800
+                       },
+                       {
+                           "file":  "Image_20260815220329_204_9.jpg",
+                           "cny":  7,
+                           "krw":  2200
+                       },
+                       {
+                           "file":  "Image_20260815220330_205_9.jpg",
+                           "cny":  23,
+                           "krw":  7200
+                       },
+                       {
+                           "file":  "Image_20260815220331_206_9.jpg",
+                           "cny":  34,
+                           "krw":  10600
+                       },
+                       {
+                           "file":  "Image_20260815220332_207_9.jpg",
+                           "cny":  234,
+                           "krw":  73400
+                       },
+                       {
+                           "file":  "Image_20260815220333_208_9.jpg",
+                           "cny":  9,
+                           "krw":  2800
+                       },
+                       {
+                           "file":  "Image_20260815220334_209_9.jpg",
+                           "cny":  3051,
+                           "krw":  956600
+                       },
+                       {
+                           "file":  "Image_20260815220335_210_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815220335_211_9.jpg",
+                           "cny":  3057,
+                           "krw":  958400
+                       },
+                       {
+                           "file":  "Image_20260815220336_212_9.jpg",
+                           "cny":  null,
+                           "krw":  null
+                       },
+                       {
+                           "file":  "Image_20260815220337_213_9.jpg",
+                           "cny":  5,
+                           "krw":  1500
+                       }
+                   ]
+    }
+]
