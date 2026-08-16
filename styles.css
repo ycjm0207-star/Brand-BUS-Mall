@@ -1,0 +1,142 @@
+:root {
+  --bg: #f7f5f2;
+  --surface: #ffffff;
+  --ink: #1c1b19;
+  --ink-soft: #6b6862;
+  --line: #e7e3dc;
+  --accent: #c65d3b;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, 'Malgun Gothic', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.topbar {
+  padding: 32px 20px 20px;
+  text-align: center;
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.topbar h1 {
+  margin: 0 0 6px;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.topbar__sub {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 14px;
+}
+
+.feed {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 16px 60px;
+}
+
+.loading, .empty {
+  text-align: center;
+  color: var(--ink-soft);
+  padding: 60px 0;
+  font-size: 14px;
+}
+
+.day {
+  margin-bottom: 36px;
+}
+
+.day__header {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin: 0 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--ink);
+}
+
+.day__date {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.day__count {
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.day__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+@media (min-width: 560px) {
+  .day__grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+.card__price {
+  margin-top: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.day__grid img {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 10px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  cursor: zoom-in;
+  display: block;
+}
+
+.footer {
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 12px;
+  padding: 20px;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 18, 16, 0.92);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  z-index: 100;
+}
+
+.lightbox.is-open {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 100%;
+  max-height: 90vh;
+  border-radius: 6px;
+}
+
+.lightbox__close {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 32px;
+  line-height: 1;
+  cursor: pointer;
+}
